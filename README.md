@@ -5,7 +5,8 @@
 - Have to clean the data in Excel 
 - Data analysis was done based on cleaned data
 ## Cleaning Process
-[Raw data 2012] (https://github.com/ajunayed/Ashiq_Junayed_Projects/blob/main/202012-divvy-tripdata.csv) (/images/dirty_data.png)
+[Dirty data] (/images/dirty_data.png) 
+- see the raw file [here] (https://github.com/ajunayed/Ashiq_Junayed_Projects/blob/main/202012-divvy-tripdata.csv)
 - Eleminating duplicate data,missing values
 - Sorting and filtering data for analysis
 - Change date format 
