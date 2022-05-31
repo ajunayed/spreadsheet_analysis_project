@@ -17,6 +17,7 @@
 ## Data analysis
 Analysis was done using Excel pivot table and chart 
 - to know about average riding time of casual and member rider
-![avg riding time](/images/Avg-riding-time.PNG)
+- 
+![Avg riding time](/images/Avg-riding-time.PNG)
 - average riding time by day of week for both casual and member rider
 - to know about the most ride done in a day of week
