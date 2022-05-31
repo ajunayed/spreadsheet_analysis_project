@@ -5,11 +5,11 @@
 - Have to clean the data in Excel 
 - Data analysis was done based on cleaned data
 ## Cleaning Process
-[Raw data 2012] (https://github.com/ajunayed/Ashiq_Junayed_Projects/blob/main/202012-divvy-tripdata.csv)
+[Raw data 2012] (https://github.com/ajunayed/Ashiq_Junayed_Projects/blob/main/202012-divvy-tripdata.csv) (/images/dirty_data.png)
 - Eleminating duplicate data,missing values
 - Sorting and filtering data for analysis
 - Change date format 
-- ![cleaned data] (/images/cleaned%20data.png) 
+- ![cleaned data] (/images/cleaned%20data.png)) 
 ## Data transformation
 - created new colomns for further analysis day_of_week,riding_time,mean_ride_length,max_ride_length,mode_of_day_of_week
 ## Data analysis
