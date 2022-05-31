@@ -9,12 +9,12 @@
 - Eleminating duplicate data,missing values
 - Sorting and filtering data for analysis
 - Change date format 
-- ![cleaned data] (https://github.com/ajunayed/Ashiq_Junayed_Projects/blob/main/cleaned%20data.png) 
+- ![cleaned data] (/images/cleaned%20data.png) 
 ## Data transformation
 - created new colomns for further analysis day_of_week,riding_time,mean_ride_length,max_ride_length,mode_of_day_of_week
 ## Data analysis
 Analysis was done using Excel pivot table and chart 
 - to know about average riding time of casual and member rider
-(https://github.com/ajunayed/Ashiq_Junayed_Projects/blob/main/Avg-riding-time.png)
+[avg riding time](/images/Avg-riding-time.png)
 - average riding time by day of week for both casual and member rider
 - to know about the most ride done in a day of week
