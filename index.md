@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/ajunayed/spreadsheet_analysis_project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ajunayed/spreadsheet_analysis_project/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Project 1:spreadsheet_analysis_project
+## Project overview
+- A bikeshere company wants to attract more customers
+- Tweleve months bike share data available
+- Have to clean the data in Excel 
+- Data analysis was done based on cleaned data
+## Cleaning Process
+[Raw data 2012] (https://github.com/ajunayed/Ashiq_Junayed_Projects/blob/main/202012-divvy-tripdata.csv)
+- Eleminating duplicate data,missing values
+- Sorting and filtering data for analysis
+- Change date format 
+- ![cleaned data] (/images/cleaned%20data.png) 
+## Data transformation
+- created new colomns for further analysis day_of_week,riding_time,mean_ride_length,max_ride_length,mode_of_day_of_week
+## Data analysis
+Analysis was done using Excel pivot table and chart 
+- to know about average riding time of casual and member rider
+[avg riding time](/images/Avg-riding-time.png)
+- average riding time by day of week for both casual and member rider
+- to know about the most ride done in a day of week
