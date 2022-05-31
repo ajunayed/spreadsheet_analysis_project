@@ -10,6 +10,7 @@
 - Eleminating duplicate data,missing values
 - Sorting and filtering data for analysis
 - Change date format 
+
 ![cleaned data] (/images/cleaned%20data.png)) 
 ## Data transformation
 - created new columns for further analysis day_of_week,riding_time,mean_ride_length,max_ride_length,mode_of_day_of_week
