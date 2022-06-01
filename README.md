@@ -25,3 +25,11 @@ Analysis was done using Excel pivot table and chart
 
 ![Avg riding time of casual member vs day of week](/images/Avg%20riding%20time%20of%20casual%20member%20vs%20day%20of%20week.png)
 ![count of ride by day of week](/images/count-of-ride-by-day-of-week.png)
+## Summary of insights
+- Average riding time of casual bike user is 27 minute and average riding time of member is 13 minute.
+- Middle of week sees the most ride. Most likely member using Cyclistic bike for daily commute to office and back to home 
+- Casual riders are most likely use Cyclistic bike for leisure purpose and/or fitness enthusiast
+
+## Recommendations
+- To motivate casual rider to member of Cyclistic bike marketing plan should have promotional plan targeting fitness center and most popular casual riding spots.
+- Cyclistic bike company can utilize the existing members by offering coupon to family and friends of the members. And if any new member added by the existing member then they will get two months 50% discounted rate.
