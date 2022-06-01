@@ -4,8 +4,9 @@
 - Tweleve months bike share data available
 - Have to clean the data in Excel 
 - Data analysis was done based on cleaned data
-## Cleaning Process
+
 ![Dirty data](/images/dirty_data.png) 
+## Cleaning Process
 - see the raw file [here](https://github.com/ajunayed/Ashiq_Junayed_Projects/blob/main/202012-divvy-tripdata.csv)
 - Eleminating duplicate data,missing values
 - Sorting and filtering data for analysis
@@ -21,3 +22,6 @@ Analysis was done using Excel pivot table and chart
 ![Avg riding time](/images/Avg-riding-time.png)
 - average riding time by day of week for both casual and member rider
 - to know about the most ride done in a day of week
+
+![Avg riding time of casual member vs day of week](/images/Avg%20riding%20time%20of%20casual%20member%20vs%20day%20of%20week.png)
+![count of ride by day of week](/images/count-of-ride-by-day-of-week.png)
